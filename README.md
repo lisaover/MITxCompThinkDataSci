@@ -1,6 +1,8 @@
 # MITxCompThinkDataSci
 This repository contains scripts related to the course _Introduction to Computational Thinking and Data Science_ by MITx on edX. In all projects, MITx provides the skeleton code (function wrappers) and some helper functions (functionality outside the scope of the course).
 
+I completed this course in September 2018. [View my certificate!](https://courses.edx.org/certificates/574783ec7fa84ccd91859d6f63905e0b)
+
 ## Brute Force Space Cows
 This program implements a brute force algorithm to find the minimum number of trips needed to take all cows across the universe in the function brute_force_cow_transport. The function returns a list of lists, where each inner list represents a trip and contains the names of cows taken on that trip.
 
